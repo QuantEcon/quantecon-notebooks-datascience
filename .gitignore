@@ -1,0 +1,7 @@
+**/*csv 
+***/*.pdf
+**/*.png 
+**/*.svg
+**/*.jpeg
+**/*.ipynb_checkpoints
+**/.DS_Store
